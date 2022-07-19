@@ -1,5 +1,5 @@
 function getAreaOfCircle(r){
-    let area = 2* Math.PI *r *r;
+    let area = Math.PI *r *r;
     return(area);
 }
 
